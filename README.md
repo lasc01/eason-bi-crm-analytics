@@ -99,7 +99,7 @@ eason-bi-crm-analytics/
 >
 > **Power BI Sales Dashboard**
 >
-> ![Sales Dashboard](powerbi/dashboards/sales_dashboard.png)
+> ![Sales Dashboard](powerbi/sales_dashboard.jpeg)
 
 ---
 
