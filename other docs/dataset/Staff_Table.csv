@@ -1,0 +1,51 @@
+StaffID,Name,Role,StoreID,ContactInfo
+STAFF1001,Peter O'Looney,Sales Lead,STORE08,peter.olooney@example.com
+STAFF1002,Nuala Hearty,Store Manager,STORE08,nuala.hearty@example.com
+STAFF1003,Jody Greaney,Supervisor,STORE01,jody.greaney@example.com
+STAFF1004,Pearse D'Arcy,Cashier,STORE04,pearse.darcy@example.com
+STAFF1005,Eugene Bones,Store Manager,STORE07,eugene.bones@example.com
+STAFF1006,Cortney Kirke,Sales Assistant,STORE02,cortney.kirke@example.com
+STAFF1007,Darcy Halloran,Store Manager,STORE10,darcy.halloran@example.com
+STAFF1008,Dara Heraghty,Sales Assistant,STORE04,dara.heraghty@example.com
+STAFF1009,Elizabeth Davenport,Store Manager,STORE03,elizabeth.davenport@example.com
+STAFF1010,Ms. Carolyn Leydon,Supervisor,STORE09,ms..carolyn.leydon@example.com
+STAFF1011,Dr. Ewan Bowles,Store Manager,STORE09,dr..ewan.bowles@example.com
+STAFF1012,Dr. Daryl O'Duffy,Supervisor,STORE08,dr..daryl.oduffy@example.com
+STAFF1013,Bernard Howley,Supervisor,STORE06,bernard.howley@example.com
+STAFF1014,Jeffrey Carry,Sales Assistant,STORE03,jeffrey.carry@example.com
+STAFF1015,Annie McNicholl,Sales Lead,STORE06,annie.mcnicholl@example.com
+STAFF1016,Cianan Johnson,Cashier,STORE08,cianan.johnson@example.com
+STAFF1017,Ms. Emma-Louise Cunny,Cashier,STORE07,ms..emma-louise.cunny@example.com
+STAFF1018,Mrs. Karley Crossan,Sales Assistant,STORE09,mrs..karley.crossan@example.com
+STAFF1019,Fionnuala MacNelis,Sales Assistant,STORE08,fionnuala.macnelis@example.com
+STAFF1020,Tara Richardson,Store Manager,STORE06,tara.richardson@example.com
+STAFF1021,Stephen Kiely,Store Manager,STORE03,stephen.kiely@example.com
+STAFF1022,Mr. Frazer Feely,Sales Lead,STORE07,mr..frazer.feely@example.com
+STAFF1023,Graeme McAdams,Store Manager,STORE05,graeme.mcadams@example.com
+STAFF1024,Elise Conry,Store Manager,STORE04,elise.conry@example.com
+STAFF1025,Stuart Ferris,Cashier,STORE08,stuart.ferris@example.com
+STAFF1026,Shauneen McGeehan,Store Manager,STORE10,shauneen.mcgeehan@example.com
+STAFF1027,Mrs. Caitlyn MacKevitt,Sales Assistant,STORE08,mrs..caitlyn.mackevitt@example.com
+STAFF1028,Pearse Cahillane,Store Manager,STORE10,pearse.cahillane@example.com
+STAFF1029,Sara Shanny,Cashier,STORE08,sara.shanny@example.com
+STAFF1030,Stephen Cruise,Cashier,STORE06,stephen.cruise@example.com
+STAFF1031,Ms. Sian McBreen,Sales Assistant,STORE03,ms..sian.mcbreen@example.com
+STAFF1032,Jesse Hedderman,Store Manager,STORE06,jesse.hedderman@example.com
+STAFF1033,Miss Mairead Keating,Supervisor,STORE05,miss.mairead.keating@example.com
+STAFF1034,Mr. Travis O'Mara,Supervisor,STORE03,mr..travis.omara@example.com
+STAFF1035,Jake Reynoldson,Sales Lead,STORE02,jake.reynoldson@example.com
+STAFF1036,Miss Frances Reilly,Sales Assistant,STORE08,miss.frances.reilly@example.com
+STAFF1037,Kenneth Mullins,Sales Lead,STORE02,kenneth.mullins@example.com
+STAFF1038,Mr. Damian Segerson,Sales Lead,STORE10,mr..damian.segerson@example.com
+STAFF1039,Mr. Garrett Meehan,Sales Assistant,STORE02,mr..garrett.meehan@example.com
+STAFF1040,Albert Mullaney,Sales Assistant,STORE07,albert.mullaney@example.com
+STAFF1041,Lee Duffy,Supervisor,STORE09,lee.duffy@example.com
+STAFF1042,Mrs. Naomi Swords,Store Manager,STORE05,mrs..naomi.swords@example.com
+STAFF1043,Dr. Lyndon Hollywood,Cashier,STORE10,dr..lyndon.hollywood@example.com
+STAFF1044,Caitlyn Bartley,Sales Assistant,STORE06,caitlyn.bartley@example.com
+STAFF1045,Mrs. Johanna Mulvihill,Sales Assistant,STORE10,mrs..johanna.mulvihill@example.com
+STAFF1046,Hayden Carey,Sales Lead,STORE09,hayden.carey@example.com
+STAFF1047,Connor Clohessy-MacFadden,Cashier,STORE03,connor.clohessy-macfadden@example.com
+STAFF1048,Laura McInerney-Roach,Supervisor,STORE07,laura.mcinerney-roach@example.com
+STAFF1049,Dr. Lloyd Nevin,Sales Lead,STORE04,dr..lloyd.nevin@example.com
+STAFF1050,Tiegan Corry,Sales Lead,STORE05,tiegan.corry@example.com
